@@ -35,7 +35,10 @@ int main(){
     std::cout << "multiplicar(" << x << "," << y << ")=" << r << "\n\n";
 // 5. López Sandoval, Heiner
 // division
-
+   std::cout << "Demo Lopez Sandoval Heiner" << std::endl;
+    f1 = 40; f2 = 50;
+    f3 = division(f1, f2);
+    std::cout << f1 << "/" << f2 << " = " << f3 << "\n" ;
 // 6. Mallaupoma Cesar
 // genera un numero aleatorio
     std::cout << "Demo Cesar Mallaupoma Orellana" << std::endl;

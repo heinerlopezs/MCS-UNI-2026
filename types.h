@@ -9,7 +9,7 @@ using T1 = long;
 // 4. Lopez Flores Royer Amed
 
 // 5. López Sandoval, Heiner
-
+using T5 = float;
 // 6. Mallaupoma Cesar
 
 // 7. Miranda Zarate Jorge Luis
