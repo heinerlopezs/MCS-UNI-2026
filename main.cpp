@@ -49,7 +49,7 @@ int main(){
 
 // 8. Riveros Guevara
 // IsPrime
- std::cout << "Demo Cuadros Vargas Ernesto" << std::endl;
+    std::cout << "Demo Cuadros Vargas Ernesto" << std::endl;
     int n = 29;
     if (esPrimo(n))
         std::cout << n << " es primo \n\n";
